@@ -1,0 +1,17 @@
+C:\Users\vdgl1\source\repos\Notas\bin\Debug\net6.0-windows\Notas.exe
+C:\Users\vdgl1\source\repos\Notas\bin\Debug\net6.0-windows\Notas.deps.json
+C:\Users\vdgl1\source\repos\Notas\bin\Debug\net6.0-windows\Notas.runtimeconfig.json
+C:\Users\vdgl1\source\repos\Notas\bin\Debug\net6.0-windows\Notas.dll
+C:\Users\vdgl1\source\repos\Notas\bin\Debug\net6.0-windows\Notas.pdb
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.csproj.GenerateResource.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.AssemblyInfoInputs.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.AssemblyInfo.cs
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.csproj.CoreCompileInputs.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.dll
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\refint\Notas.dll
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.pdb
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.genruntimeconfig.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\ref\Notas.dll
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.Properties.Resources.resources
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\net6.0-windows\Notas.NotasView.resources

@@ -1,0 +1,7 @@
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.Form1.resources
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.Properties.Resources.resources
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.GenerateResource.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfoInputs.cache
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfo.cs
+C:\Users\vdgl1\source\repos\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.CoreCompileInputs.cache
