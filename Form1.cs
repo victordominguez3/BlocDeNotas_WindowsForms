@@ -250,16 +250,16 @@ namespace Notas
             textBox.ZoomFactor = 2;
         }
 
-        private void AjusteDeLíneaToolStripMenuItem_Click(object sender, EventArgs e)
+        private void AjusteDeLineaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (textBox.WordWrap == true)
             {
-                ajusteDeLíneaToolStripMenuItem.Checked = false;
+                ajusteDeLineaToolStripMenuItem.Checked = false;
                 textBox.WordWrap = false;
             }
             else
             {
-                ajusteDeLíneaToolStripMenuItem.Checked = true;
+                ajusteDeLineaToolStripMenuItem.Checked = true;
                 textBox.WordWrap = true;
             }
         }

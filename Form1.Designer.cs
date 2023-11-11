@@ -49,7 +49,7 @@ namespace Notas
             fuenteToolStripMenuItem = new ToolStripMenuItem();
             colorDeFuenteToolStripMenuItem = new ToolStripMenuItem();
             colorDelFondoToolStripMenuItem = new ToolStripMenuItem();
-            ajusteDeLíneaToolStripMenuItem = new ToolStripMenuItem();
+            ajusteDeLineaToolStripMenuItem = new ToolStripMenuItem();
             verToolStripMenuItem = new ToolStripMenuItem();
             barraDeEstadoToolStripMenuItem = new ToolStripMenuItem();
             zoomToolStripMenuItem = new ToolStripMenuItem();
@@ -205,7 +205,7 @@ namespace Notas
             // 
             // formatoToolStripMenuItem
             // 
-            formatoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { fuenteToolStripMenuItem, colorDeFuenteToolStripMenuItem, colorDelFondoToolStripMenuItem, ajusteDeLíneaToolStripMenuItem });
+            formatoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { fuenteToolStripMenuItem, colorDeFuenteToolStripMenuItem, colorDelFondoToolStripMenuItem, ajusteDeLineaToolStripMenuItem });
             formatoToolStripMenuItem.Name = "formatoToolStripMenuItem";
             formatoToolStripMenuItem.Size = new Size(79, 24);
             formatoToolStripMenuItem.Text = "Formato";
@@ -235,13 +235,13 @@ namespace Notas
             colorDelFondoToolStripMenuItem.Text = "Color del fondo";
             colorDelFondoToolStripMenuItem.Click += ColorDelFondoToolStripMenuItem_Click;
             // 
-            // ajusteDeLíneaToolStripMenuItem
+            // ajusteDeLineaToolStripMenuItem
             // 
-            ajusteDeLíneaToolStripMenuItem.Name = "ajusteDeLíneaToolStripMenuItem";
-            ajusteDeLíneaToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.L;
-            ajusteDeLíneaToolStripMenuItem.Size = new Size(239, 26);
-            ajusteDeLíneaToolStripMenuItem.Text = "Ajuste de línea";
-            ajusteDeLíneaToolStripMenuItem.Click += AjusteDeLíneaToolStripMenuItem_Click;
+            ajusteDeLineaToolStripMenuItem.Name = "ajusteDeLineaToolStripMenuItem";
+            ajusteDeLineaToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.L;
+            ajusteDeLineaToolStripMenuItem.Size = new Size(239, 26);
+            ajusteDeLineaToolStripMenuItem.Text = "Ajuste de línea";
+            ajusteDeLineaToolStripMenuItem.Click += AjusteDeLineaToolStripMenuItem_Click;
             // 
             // verToolStripMenuItem
             // 
@@ -509,7 +509,7 @@ namespace Notas
         private ToolStripMenuItem toolStripMenuItem4;
         private ToolStripMenuItem toolStripMenuItem5;
         private ToolStripMenuItem toolStripMenuItem6;
-        private ToolStripMenuItem ajusteDeLíneaToolStripMenuItem;
+        private ToolStripMenuItem ajusteDeLineaToolStripMenuItem;
         private ContextMenuStrip contextMenuStrip1;
         private ToolStripMenuItem copiarToolStripMenuItem1;
         private ToolStripMenuItem cortarToolStripMenuItem1;
