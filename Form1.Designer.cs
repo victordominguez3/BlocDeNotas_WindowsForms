@@ -38,7 +38,7 @@ namespace Notas
             guardarToolStripMenuItem = new ToolStripMenuItem();
             guardarComoToolStripMenuItem = new ToolStripMenuItem();
             imprimirToolStripMenuItem = new ToolStripMenuItem();
-            ediciónToolStripMenuItem = new ToolStripMenuItem();
+            edicionToolStripMenuItem = new ToolStripMenuItem();
             deshacerToolStripMenuItem = new ToolStripMenuItem();
             rehacerToolStripMenuItem = new ToolStripMenuItem();
             copiarToolStripMenuItem = new ToolStripMenuItem();
@@ -83,7 +83,7 @@ namespace Notas
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { archivoToolStripMenuItem, ediciónToolStripMenuItem, formatoToolStripMenuItem, verToolStripMenuItem, ayudaToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { archivoToolStripMenuItem, edicionToolStripMenuItem, formatoToolStripMenuItem, verToolStripMenuItem, ayudaToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(696, 28);
@@ -142,12 +142,12 @@ namespace Notas
             imprimirToolStripMenuItem.Text = "Imprimir";
             imprimirToolStripMenuItem.Click += ImprimirToolStripMenuItem_Click;
             // 
-            // ediciónToolStripMenuItem
+            // edicionToolStripMenuItem
             // 
-            ediciónToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { deshacerToolStripMenuItem, rehacerToolStripMenuItem, copiarToolStripMenuItem, cortarToolStripMenuItem, pegarToolStripMenuItem, eliminarToolStripMenuItem });
-            ediciónToolStripMenuItem.Name = "ediciónToolStripMenuItem";
-            ediciónToolStripMenuItem.Size = new Size(72, 24);
-            ediciónToolStripMenuItem.Text = "Edición";
+            edicionToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { deshacerToolStripMenuItem, rehacerToolStripMenuItem, copiarToolStripMenuItem, cortarToolStripMenuItem, pegarToolStripMenuItem, eliminarToolStripMenuItem });
+            edicionToolStripMenuItem.Name = "edicionToolStripMenuItem";
+            edicionToolStripMenuItem.Size = new Size(72, 24);
+            edicionToolStripMenuItem.Text = "Edición";
             // 
             // deshacerToolStripMenuItem
             // 
@@ -475,7 +475,7 @@ namespace Notas
 
         private MenuStrip menuStrip1;
         private ToolStripMenuItem archivoToolStripMenuItem;
-        private ToolStripMenuItem ediciónToolStripMenuItem;
+        private ToolStripMenuItem edicionToolStripMenuItem;
         private ToolStripMenuItem formatoToolStripMenuItem;
         private ToolStripMenuItem verToolStripMenuItem;
         private ToolStripMenuItem ayudaToolStripMenuItem;
